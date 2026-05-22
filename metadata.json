@@ -1,0 +1,6 @@
+{
+  "name": "ManUp",
+  "description": "4050 남성 컨디션 및 회복력 관리 플랫폼 (30초 체크인, AI 루틴, 데이터 분석, 의사 상담 리포트 제공)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
